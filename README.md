@@ -1,4 +1,4 @@
-![logo](https://github.com/RupeshShandilya/RupeshShandilya/blob/main/bn.png)
+
 <h1 align="center">Hi there,I'm JATIN GAHLOT 👋</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">A Computer Science Student Aspiring to become a Versatile Developer. 😄</h3>
@@ -9,15 +9,15 @@
 
 - 💬 Ask me about *Android Development*
 
-- 📫 How to reach me *rupeshmishra813@gmail.com*
+- 📫 How to reach me *imjatingahlot@gmail.com*
 
 - ⚡ Fun fact *My app never contain bugs. It just develops random features. 😄*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://www.linkedin.com/in/rupesh-shandilya-04655a193/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="rupesh-shandillya-6a144a221" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rupesh.shandilya_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="rupesh.shandilya" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/jatin-gahlot-9b5741238//" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="JATINGAHLOT-6a144a221" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jatin.gahlot_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="JATINGAHLOT" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -67,16 +67,16 @@
 <tr>
   <td align="center">
   <p align="center">
-  <a href="https://github.com/rupeshshandilya">
-    <img align="center" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshshandilya&"/>
+  <a href="https://github.com/JATINGAHLOT">
+    <img align="center" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=JATINGAHLOT&"/>
   </a>
   </td>
   <td align="center">
-  <a href="https://github.com/rupeshshandilya">
-  <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api?username=rupeshshandilya" />
+  <a href="https://github.com/JATINGAHLOT">
+  <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api?username=JATINGAHLOT" />
   </a>
   </td>
 </p>
 </details>
 </table>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshshandilya&layout=compact" alt="rupeshshandilya" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JATINGAHLOT&layout=compact" alt="JATINGAHLOT" /></p>
