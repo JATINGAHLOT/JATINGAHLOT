@@ -16,8 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://www.linkedin.com/in/jatin-gahlot-9b5741238/" target="_blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="JATINGAHLOT-6a144a221" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jatin.gahlot_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="JATINGAHLOT" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/
+passionate-ai-cse
+/" target="_blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="JATINGAHLOT-6a144a221" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jatin.gahlot_/" target="blank"><img align="center" src="<a href="https://iconscout.com/icons/instagram" target="_blank">Free Instagram Icon</a> by <a href="https://iconscout.com/contributors/pixel-icons">Pixel Icons</a> on <a href="https://iconscout.com">IconScout</a>" alt="JATINGAHLOT" height="30" width="40" /></a>
 </p>
 
 
