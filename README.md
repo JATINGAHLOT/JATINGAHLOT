@@ -11,15 +11,15 @@ Jatin Gahlot</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as a Project Manager in <a href="https://bennettai.github.io/" target="blank">Bennett Artificial Intelligence Society.</a>
-
 - 🌱 I’m currently Working on Text to Video AI generation model.
 
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Fullstack development from <a href="https://github.com/freeCodeCamp/freeCodeCamp" target="blank">freeCodeCamp</a>
+- 🌱 I’m currently learning Natural Language Processing from <a href="https://www.DeepLearning.AI" target="blank">DeepLearning.Ai</a>
 
 - 💬 Ask me about **AI/ML & NLP**
+  
+- 🔭 I worked as a Project Manager in <a href="https://bennettai.github.io/" target="blank">Bennett Artificial Intelligence Society.</a>
+
+- 🤝 I’m available for freelancing.
 
 - 📫 How to reach me **imjatingahlot@gmail.com**
 
