@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">, I'm <a href="https://github.com/JATINGAHLOT" target="blank">
+<h1 align="center">Hi , I'm <a href="https://github.com/JATINGAHLOT" target="blank">
 Jatin Gahlot</a></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">A Computer Science Student Aspiring to become a Versatile Developer.</h3>
