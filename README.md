@@ -11,7 +11,7 @@ Jatin Gahlot</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as a Project Manager in <a href="https://bennettai.github.io/" target="blank">Bennett Artificial Intelligence Society.</a>
+- 🔭 I worked as a Project Manager in <a href="https://bennettai.github.io/" target="blank">Bennett Artificial Intelligence Society.</a>
 
 - 🌱 I'm currently building ML models and trying to integrate them into a chatbot.
   
