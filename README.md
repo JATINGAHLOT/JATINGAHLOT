@@ -13,15 +13,15 @@ Jatin Gahlot</a></h1>
 
 - 🔭 I’m currently working as a Project Manager in <a href="https://bennettai.github.io/" target="blank">Bennett Artificial Intelligence Society.</a>
 
-- 🌱 I’m currently Working on Text to Video AI generation model.
-
+- 🌱 I'm currently building ML models and trying to integrate them into a chatbot.
+  
 - 🤝 I’m available for freelancing.
 
 - 🌱 I’m currently learning Fullstack development from <a href="https://github.com/freeCodeCamp/freeCodeCamp" target="blank">freeCodeCamp</a>
 
 - 💬 Ask me about *AI/ML & NLP*
 
-- 📫 How to reach me **imjatingahlot@gmail.com**
+- 📫 How to reach me **imjatingahlot@outlook.com**
 
   <br><br>
 
