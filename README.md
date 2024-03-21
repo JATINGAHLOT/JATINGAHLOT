@@ -17,7 +17,7 @@ Jatin Gahlot</a></h1>
   
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Fullstack development from <a href="https://github.com/freeCodeCamp/freeCodeCamp" target="blank">freeCodeCamp</a>
+<!-- - 🌱 I’m currently learning Fullstack development from <a href="https://github.com/freeCodeCamp/freeCodeCamp" target="blank">freeCodeCamp</a> -->
 
 - 💬 Ask me about *AI/ML & NLP*
 
